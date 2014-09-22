@@ -1,0 +1,10 @@
+{
+  "name": "lingon-template-minimal",
+  "version": "0.0.0",
+  "description": "A minimal template for a lingon project",
+  "author": "Jonatan Dahl <dahl.jonatan@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lingon": "^1.4.0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "lingon-template-minimal",
+  "version": "0.0.0",
+  "homepage": "https://github.com/javoire/lingon-template-minimal",
+  "authors": [
+    "Jonatan Dahl <dahl.jonatan@gmail.com>"
+  ],
+  "description": "A minimal template for a lingon project",
+  "license": "MIT"
+}
